@@ -16,15 +16,15 @@ Berikut adalah beberapa tangkapan layar dari aplikasi demo:
 
 Halaman Menu Utama
 
-\!\[Image\]([https://github.com/user-attachments/assets/351c2898-deb8-446c-8917-60569aaf00ba](https://github.com/user-attachments/assets/351c2898-deb8-446c-8917-60569aaf00ba))
+([https://github.com/user-attachments/assets/351c2898-deb8-446c-8917-60569aaf00ba](https://github.com/user-attachments/assets/351c2898-deb8-446c-8917-60569aaf00ba))
 
 Demo Binary Search
 
-\!\[Image\]([https://github.com/user-attachments/assets/cdf88ef0-846b-4e96-aaff-0f74992560b0](https://github.com/user-attachments/assets/cdf88ef0-846b-4e96-aaff-0f74992560b0))
+([https://github.com/user-attachments/assets/cdf88ef0-846b-4e96-aaff-0f74992560b0](https://github.com/user-attachments/assets/cdf88ef0-846b-4e96-aaff-0f74992560b0))
 
 Demo Linear Search
 
-\!\[Image\]([https://github.com/user-attachments/assets/befc0673-8723-4129-911d-33a4fdfe3112](https://github.com/user-attachments/assets/befc0673-8723-4129-911d-33a4fdfe3112)))
+([https://github.com/user-attachments/assets/befc0673-8723-4129-911d-33a4fdfe3112](https://github.com/user-attachments/assets/befc0673-8723-4129-911d-33a4fdfe3112)))
 
 ## **⚙️ Alur Kerja Algoritma**
 
