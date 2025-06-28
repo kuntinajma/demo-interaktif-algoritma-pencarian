@@ -1,0 +1,36 @@
+/* Menggunakan font Inter sebagai default */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Custom style untuk animasi dan transisi */
+.step-box {
+    transition: all 0.5s ease-in-out;
+    transform-origin: center;
+}
+
+.highlight-mid {
+    background-color: #fef08a !important; /* yellow-200 */
+    border-color: #facc15 !important; /* yellow-400 */
+    transform: scale(1.1);
+}
+
+.highlight-found {
+    background-color: #bbf7d0 !important; /* green-200 */
+    color: #166534; /* green-800 */
+    border-color: #4ade80 !important; /* green-400 */
+    transform: scale(1.1);
+    animation: pulse-green 1.5s infinite;
+}
+
+.highlight-discard {
+    background-color: #fecaca !important; /* red-200 */
+    opacity: 0.5;
+    transform: scale(0.9);
+}
+
+@keyframes pulse-green {
+    0% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0.7); }
+    70% { box-shadow: 0 0 0 10px rgba(74, 222, 128, 0); }
+    100% { box-shadow: 0 0 0 0 rgba(74, 222, 128, 0); }
+}
