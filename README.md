@@ -8,7 +8,7 @@ Studi kasus yang diangkat adalah penerapan algoritma dalam sistem absensi mahasi
 
 Anda dapat mengakses dan mencoba demo aplikasi secara langsung melalui link berikut:
 
-[**https://kuntinajma.github.io/demo-interaktif-algoritma-perbandingan/**](https://kuntinajma.github.io/demo-interaktif-algoritma-perbandingan/)
+[**https://kuntinajma.github.io/demo-interaktif-algoritma-perbandingan/**](https://kuntinajma.github.io/demo-interaktif-algoritma-pencarian/)
 
 ## **📸 Tampilan Aplikasi**
 
